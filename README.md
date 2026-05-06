@@ -27,17 +27,20 @@ This is a RESTful API for managing a book library, built with **Django REST Fram
   python -m venv venv
   # For Windows:
   venv\Scripts\activate
+  ```
 3. **Install dependencies:**
   ```bash
   pip install -r requirements.txt
-
+  ```
 4. **Apply migrations:**
   ```bash
   python manage.py migrate
+  ```
 
 5. **Run the development server:**
   ```bash
   python manage.py runserver
+  ```
 
 ## API Endpoints
 **Authentication & Users:**
