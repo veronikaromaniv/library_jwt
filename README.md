@@ -3,7 +3,6 @@
 This is a RESTful API for managing a book library, built with **Django REST Framework**. The project implements a robust system for handling books and authors, secured by **JWT (JSON Web Token)** authentication.
 
 ## Features
-
 - **Book & Author Management**: Full CRUD capabilities with relational database structure.
 - **JWT Authentication**: Secure access to endpoints using `djangorestframework-simplejwt`.
 - **User Registration**: Custom endpoint for new user creation.
